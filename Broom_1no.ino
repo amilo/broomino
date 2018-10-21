@@ -13,7 +13,7 @@
   Analog input, audio and control oscillators, phase modulation
   and smoothing a control signal at audio rate to avoid clicks.
 
-  
+  //no distance sensor
  
   
   The circuit:
